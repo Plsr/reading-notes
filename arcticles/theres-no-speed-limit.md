@@ -1,6 +1,6 @@
 # There's No Speed Limit
 
-Link: https://sive.rs/kimo
+Link: https://sive.rs/kimo  
 Author: Derek Sivers
 
 The story of how Sivers learned about two years of college course material in just a few sessions

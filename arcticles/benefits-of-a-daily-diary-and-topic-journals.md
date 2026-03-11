@@ -1,6 +1,6 @@
 # Benefits of a daily diary and topic journals
 
-Link: https://sive.rs/kimo
+Link: https://sive.rs/kimo  
 Author: Derek Sivers
 
 - A daily diary will be helpful for you in the future. Our view of the past is always clouded and making decision will be easier if we have a trusted record about how we actually felt in a certain direction.
